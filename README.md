@@ -1,9 +1,10 @@
-<H3>ENTER YOUR NAME VINOD KUMAR S</H3>
+<H3>ENTER YOUR NAME: VINOD KUMAR S</H3>
 <H3>ENTER YOUR REGISTER NO. 212222240116</H3>
 <H3>EX. NO.3</H3>
 <H3>DATE:</H3>
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
 <h3>Aim:</h3>
+
 To implement a perceptron for classification using Python
 <H3>Theory:</H3>
 Exclusive or is a logical operation that outputs true when the inputs differ.For the XOR gate, the TRUTH table will be as follows:
@@ -36,6 +37,8 @@ Step 3: Repeat the  iteration  until the losses become constant and  minimum<BR>
 Step 4 : Test for the XOR patterns.
 
 <H3>Program:</H3>
+
+
 ```python
 import numpy as np
 import pandas as pd
